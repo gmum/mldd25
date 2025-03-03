@@ -1,0 +1,40 @@
+name: mldd25
+channels:
+  - pyg
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - cpuonly
+  - biopython
+  - black
+  - bokeh
+  - chembl_webresource_client
+  - isort
+  - jupyter
+  - matplotlib
+  - notebook
+  - numpy
+  - openbabel
+  - pandas
+  - pip
+  - prolif
+  - py3dmol
+  - pyg
+  - pymol-open-source
+  - pypdb
+  - pytdc
+  - pytest
+  - python
+  - pytorch
+  - pytorch-lightning
+  - pyyaml
+  - qvina
+  - rdkit
+  - scikit-learn
+  - scipy
+  - seaborn
+  - smina
+  - streamlit
+  - tqdm
+  - yaml
