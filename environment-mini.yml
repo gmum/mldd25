@@ -1,0 +1,21 @@
+name: mldd25mini
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter=1.1.1
+  - matplotlib=3.10.1
+  - notebook=7.3.2
+  - numpy=1.26.4
+  - pandas=2.1.4
+  - pip=25.0.1
+  - py3dmol=2.4.2
+  - pytdc=0.3.8
+  - python=3.12.9
+  - pyyaml=6.0.2
+  - rdkit=2023.09.6
+  - scikit-learn=1.6.1
+  - scipy=1.15.2
+  - seaborn=0.13.2
+  - tqdm=4.67.1
+  - yaml=0.2.5
