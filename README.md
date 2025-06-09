@@ -37,6 +37,9 @@ This repository contains course materials for the course "Machine Learning in Dr
     - SMILES generators: ReLeaSE and REINVENT
     - Graph-based generative models: JT-VAE
     - Reinforcement learning and Bayesian optimization for molecular property optimization
+7. Uncertainty prediction
+    - Aleatoric and epistemic uncertainty
+    - Conformal prediction
 
 ## About us
 
